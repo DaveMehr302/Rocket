@@ -8,7 +8,7 @@ waitTime=2
 while :
 do
 
-	mpg321 /home/pi/Rocket/Euromir.mp3
+	mpg321 /home/pi/Rocket/EuroMir.mp3
 	sleep $waitTime
 
 done
